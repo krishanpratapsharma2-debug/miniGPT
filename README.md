@@ -10,7 +10,7 @@ The implementation was developed by following Andrej Karpathy's *Neural Networks
 
 ## Architecture Diagram
 
-![Architecture Diagram](media/image1.png)
+![Architecture Diagram](image1.png)
 
 ## Key Features
 
