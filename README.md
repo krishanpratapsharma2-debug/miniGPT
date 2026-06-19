@@ -8,7 +8,7 @@ Trained on the works of William Shakespeare, the model learns to capture long-ra
 
 The implementation was developed by following Andrej Karpathy's *Neural Networks: Zero to Hero* series while simultaneously studying the original Transformer architecture proposed by Vaswani et al., bridging theoretical foundations with practical engineering. The project serves as a hands-on exploration of the architectural innovations that power modern language models such as GPT, demonstrating how attention mechanisms can replace recurrence entirely and scale effectively through parallel computation.
 
-## Architecture Diagram
+
 
 ![Architecture Diagram](https://github.com/krishanpratapsharma2-debug/miniGPT/blob/main/image.png?raw=true)
 
