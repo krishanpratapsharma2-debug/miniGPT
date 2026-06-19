@@ -10,7 +10,7 @@ The implementation was developed by following Andrej Karpathy's *Neural Networks
 
 ## Architecture Diagram
 
-![Architecture Diagram](image1.png)
+![Architecture Diagram](https://github.com/krishanpratapsharma2-debug/miniGPT/blob/main/image.png?raw=true)
 
 ## Key Features
 
