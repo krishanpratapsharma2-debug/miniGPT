@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29152496/README.md)
 **MiniGPT: A Transformer Language Model Inspired by Shakespeare**
 
 *\"To attend, or not to attend --- that was the question.\"*
@@ -27,9 +26,7 @@ modern language models such as GPT, demonstrating how attention
 mechanisms can replace recurrence entirely and scale effectively through
 parallel computation.
 
-![](media/image1.png){width="6.268055555555556in"
-height="3.9756944444444446in"}
-
+![Architecture Diagram](media/image1.png)
 **Key Features**
 
 - Decoder-only GPT-style architecture
