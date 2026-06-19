@@ -6,7 +6,7 @@ MiniGPT is a decoder-only Transformer language model built from first principles
 
 Trained on the works of William Shakespeare, the model learns to capture long-range dependencies, linguistic structure, and stylistic patterns directly from raw text. By leveraging masked self-attention, MiniGPT predicts the next token in a sequence while maintaining causal consistency, enabling coherent generation of Shakespearean prose and verse.
 
-The implementation was developed by following Andrej Karpathy's *Neural Networks: Zero to Hero* series while simultaneously studying the original Transformer architecture proposed by Vaswani et al., bridging theoretical foundations with practical engineering. The project serves as a hands-on exploration of the architectural innovations that power modern language models such as GPT, demonstrating how attention mechanisms can replace recurrence entirely and scale effectively through parallel computation.
+The implementation was developed by studying the original Transformer architecture proposed by Vaswani et al., bridging theoretical foundations with practical engineering. The project serves as a hands-on exploration of the architectural innovations that power modern language models such as GPT, demonstrating how attention mechanisms can replace recurrence entirely and scale effectively through parallel computation.
 
 
 
