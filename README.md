@@ -8,6 +8,16 @@ Trained on the works of William Shakespeare, the model learns to capture long-ra
 
 The implementation was developed by studying the original Transformer architecture proposed by Vaswani et al., bridging theoretical foundations with practical engineering. The project serves as a hands-on exploration of the architectural innovations that power modern language models such as GPT, demonstrating how attention mechanisms can replace recurrence entirely and scale effectively through parallel computation.
 
+## Training Results
+
+After 5,000 training iterations:
+
+| Metric | Value |
+|----------|---------|
+| Train Loss | 1.6645 |
+| Validation Loss | 1.8286 |
+
+The model learned meaningful language patterns from the Shakespeare corpus and was able to generate coherent character-level text samples.
 
 
 ![Architecture Diagram](https://github.com/krishanpratapsharma2-debug/miniGPT/blob/main/image.png?raw=true)
